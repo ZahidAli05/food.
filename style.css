@@ -1,0 +1,21 @@
+
+.container-fluid{
+    background-color: rgb(155, 127, 127);
+    /* display: flex; */
+   justify-content: center;
+   align-items: center;
+}
+.carouselc{
+    width: 100% !important;
+    height:  500px !important;
+}
+.cardclass{
+
+    display:flex;
+    justify-content: space-between;
+    height: 350px !important;
+}
+.card{
+    background-color: aqua;
+    border-radius: 20px !important;
+}
